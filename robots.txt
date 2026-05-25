@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/fonts/
+Disallow: /assets/fontawesome/
+
+Sitemap: https://everlastingupvcwindows.com/sitemap.xml
